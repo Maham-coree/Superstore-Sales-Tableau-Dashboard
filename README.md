@@ -16,7 +16,8 @@ I wanted to create a simple, executive-ready dashboard that helps business manag
 
 ## 🔗 Try the Live Interactive Dashboard
 You can play around with the interactive filters directly on Tableau Public:
-👉 **[View Dashboard Here] https://public.tableau.com/authoring/SuperstoreSalesProfitabilityDashboard_17850751511210/Dashboard1#1**
+👉 **[View Dashboard Here] 
+https://public.tableau.com/app/profile/maham.waseem/viz/SuperstoreSalesProfitabilityDashboard_17850751511210/Dashboard1**
 
 <img width="1212" height="806" alt="image" src="https://github.com/user-attachments/assets/b7ccd68e-6bd1-4f45-9845-ee86d01a6da7" />
 
