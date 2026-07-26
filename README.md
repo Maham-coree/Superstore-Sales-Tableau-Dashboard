@@ -19,7 +19,7 @@ You can play around with the interactive filters directly on Tableau Public:
 👉 **[View Dashboard Here] https://public.tableau.com/authoring/SuperstoreSalesProfitabilityDashboard_17850751511210/Dashboard1#1**
 
 <img width="1212" height="806" alt="image" src="https://github.com/user-attachments/assets/b7ccd68e-6bd1-4f45-9845-ee86d01a6da7" />
-<img width="1212" height="806" alt="Screenshot 2026-07-26 073216" src="https://github.com/user-attachments/assets/cac9b3ab-ef4f-4d18-9129-6dd9f45b07cb" />
+
 
 ---
 
